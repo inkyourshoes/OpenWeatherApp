@@ -1,0 +1,17 @@
+/Users/inkyourshoes/repos/OpenWeatherMap/OpenWeatherMap/bin/Debug/net9.0/OpenWeatherMap.deps.json
+/Users/inkyourshoes/repos/OpenWeatherMap/OpenWeatherMap/bin/Debug/net9.0/OpenWeatherMap.dll
+/Users/inkyourshoes/repos/OpenWeatherMap/OpenWeatherMap/bin/Debug/net9.0/OpenWeatherMap.pdb
+/Users/inkyourshoes/repos/OpenWeatherMap/OpenWeatherMap/obj/Debug/net9.0/OpenWeatherMap.csproj.AssemblyReference.cache
+/Users/inkyourshoes/repos/OpenWeatherMap/OpenWeatherMap/obj/Debug/net9.0/OpenWeatherMap.GeneratedMSBuildEditorConfig.editorconfig
+/Users/inkyourshoes/repos/OpenWeatherMap/OpenWeatherMap/obj/Debug/net9.0/OpenWeatherMap.AssemblyInfoInputs.cache
+/Users/inkyourshoes/repos/OpenWeatherMap/OpenWeatherMap/obj/Debug/net9.0/OpenWeatherMap.AssemblyInfo.cs
+/Users/inkyourshoes/repos/OpenWeatherMap/OpenWeatherMap/obj/Debug/net9.0/OpenWeatherMap.csproj.CoreCompileInputs.cache
+/Users/inkyourshoes/repos/OpenWeatherMap/OpenWeatherMap/obj/Debug/net9.0/OpenWeatherMap.dll
+/Users/inkyourshoes/repos/OpenWeatherMap/OpenWeatherMap/obj/Debug/net9.0/refint/OpenWeatherMap.dll
+/Users/inkyourshoes/repos/OpenWeatherMap/OpenWeatherMap/obj/Debug/net9.0/OpenWeatherMap.pdb
+/Users/inkyourshoes/repos/OpenWeatherMap/OpenWeatherMap/obj/Debug/net9.0/ref/OpenWeatherMap.dll
+/Users/inkyourshoes/repos/OpenWeatherMap/OpenWeatherMap/bin/Debug/net9.0/OpenWeatherMap
+/Users/inkyourshoes/repos/OpenWeatherMap/OpenWeatherMap/bin/Debug/net9.0/OpenWeatherMap.runtimeconfig.json
+/Users/inkyourshoes/repos/OpenWeatherMap/OpenWeatherMap/bin/Debug/net9.0/Newtonsoft.Json.dll
+/Users/inkyourshoes/repos/OpenWeatherMap/OpenWeatherMap/obj/Debug/net9.0/OpenWeat.3C5E5AF9.Up2Date
+/Users/inkyourshoes/repos/OpenWeatherMap/OpenWeatherMap/obj/Debug/net9.0/OpenWeatherMap.genruntimeconfig.cache
