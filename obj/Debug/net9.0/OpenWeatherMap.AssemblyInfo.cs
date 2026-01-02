@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OpenWeatherMap")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47e67aaa343d8b52f78176a00b2560bec86d5ba6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c287c232ce987ba94d31d8ca3c3697b12fa9c7d5")]
 [assembly: System.Reflection.AssemblyProductAttribute("OpenWeatherMap")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OpenWeatherMap")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

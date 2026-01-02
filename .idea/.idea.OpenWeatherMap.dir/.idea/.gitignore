@@ -18,3 +18,4 @@ riderModule.iml
 /dataSources.local.xml
 # user specific files
    appsettings.json
+   /appsettings.json
