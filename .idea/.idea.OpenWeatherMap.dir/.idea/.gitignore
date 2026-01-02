@@ -19,3 +19,5 @@ riderModule.iml
 # user specific files
    appsettings.json
    /appsettings.json
+      key.txt
+      /key.txt
